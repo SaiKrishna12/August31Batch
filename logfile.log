@@ -1,0 +1,10 @@
+2015-10-14 21:32:04,366 INFO  [LoginusingLog4j] Browser Launched 
+2015-10-14 21:32:18,374 INFO  [LoginusingLog4j] Opened yahoomail 
+2015-10-14 21:32:20,362 INFO  [LoginusingLog4j] Entered username 
+2015-10-14 21:32:20,434 INFO  [LoginusingLog4j] entered password 
+2015-10-14 21:32:21,295 INFO  [LoginusingLog4j] Clicked on login 
+2015-10-14 21:34:49,588 INFO  [LoginusingLog4j] Browser Launched 
+2015-10-14 21:35:04,716 INFO  [LoginusingLog4j] Opened yahoomail 
+2015-10-14 21:35:05,664 INFO  [LoginusingLog4j] Entered username 
+2015-10-14 21:35:05,769 INFO  [LoginusingLog4j] entered password 
+2015-10-14 21:35:06,631 ERROR [LoginusingLog4j] Clicked on login 
